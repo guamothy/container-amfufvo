@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "guamothy",
+  "repo": "container-amfufvo",
+  "name": "guamothy",
+  "email": "fhi91503@gmail.com",
+}
